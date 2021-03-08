@@ -12,6 +12,14 @@ A place to dump OS Dev resources into
 - [Kansas State: Operating-System Design](http://faculty.salina.k-state.edu/tim/ossg/Introduction/design.html)
 - [Wiki-Books: Operating System Design](https://en.wikibooks.org/wiki/Operating_System_Design)
 - [UCLA: File System Design](http://web.cs.ucla.edu/classes/fall10/cs111/scribe/11a/)
+- [UBC: A decade of wasted cores](http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf)
+- [Fast Allocation and Deallocation with an Improved Buddy System](https://www.cs.au.dk/~gerth/papers/actainformatica05.pdf)
+- [Usenix: Low latency device interaction](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-peter_simon.pdf)
+- [Cap Lore: Various topics](http://cap-lore.com/CapTheory/upenn/)
+- [Minix3:High reliability Self repairing](http://www.minix3.org/docs/jorrit-herder/osr-jul06.pdf)
+- [IRIF: Correct and Efficient Bounded FIFO Queues](https://www.irif.fr/~guatto/papers/sbac13.pdf)
+- [CLICK WITH CAUTION!! Microsoft: A fork() in the road](https://www.microsoft.com/en-us/research/publication/a-fork-in-the-road/)
+- 
 
 ## Further Research
 - [OS Dev Wiki: Books](https://wiki.osdev.org/Books)
@@ -21,3 +29,10 @@ A place to dump OS Dev resources into
 - [BHAM: Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 - [YCombinator comment: "OS research is dying out"](https://news.ycombinator.com/item?id=19489800)
 - [Dev.to: Deadlocks explained](https://dev.to/skydler/deadlocks-in-os-explained-18id)
+- [TUF: A framework for securing software update systems](https://theupdateframework.io/)
+- [NixOS: Various topics](https://nixos.org/learn.html)
+- [TSMU: Weird file system thing](https://tmsu.org/)
+- [Nushell: A new type of shell](https://www.nushell.sh/)
+- [Termkit: A drill instead of a screwdriver](https://acko.net/blog/on-termkit/)
+- [bcachefs: A normal filesystem](https://bcachefs.org/Architecture/)
+- [Researchgate: Flat Design vs Traditional Design: Comparative Experimental Study](https://www.researchgate.net/publication/281628009_Flat_Design_vs_Traditional_Design_Comparative_Experimental_Study)
