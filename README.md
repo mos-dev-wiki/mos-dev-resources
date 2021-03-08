@@ -19,7 +19,7 @@ A place to dump OS Dev resources into
 - [Minix3:High reliability Self repairing](http://www.minix3.org/docs/jorrit-herder/osr-jul06.pdf)
 - [IRIF: Correct and Efficient Bounded FIFO Queues](https://www.irif.fr/~guatto/papers/sbac13.pdf)
 - [CLICK WITH CAUTION!! Microsoft: A fork() in the road](https://www.microsoft.com/en-us/research/publication/a-fork-in-the-road/)
-- 
+
 
 ## Further Research
 - [OS Dev Wiki: Books](https://wiki.osdev.org/Books)
@@ -36,3 +36,6 @@ A place to dump OS Dev resources into
 - [Termkit: A drill instead of a screwdriver](https://acko.net/blog/on-termkit/)
 - [bcachefs: A normal filesystem](https://bcachefs.org/Architecture/)
 - [Researchgate: Flat Design vs Traditional Design: Comparative Experimental Study](https://www.researchgate.net/publication/281628009_Flat_Design_vs_Traditional_Design_Comparative_Experimental_Study)
+- [Phil Opp Blog OS: Various Topics](https://os.phil-opp.com/)
+- [Josh Mcguigan: Build your own shell](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+- [Hecto: Building your own text editor](https://www.philippflenker.com/hecto/)
