@@ -11,7 +11,12 @@ A place to dump OS Dev resources into
 - [OS News: Designing your kernel](https://www.osnews.com/story/24405/hobby-os-deving-3-designing-a-kernel/)
 - [Kansas State: Operating-System Design](http://faculty.salina.k-state.edu/tim/ossg/Introduction/design.html)
 - [Wiki-Books: Operating System Design](https://en.wikibooks.org/wiki/Operating_System_Design)
+- [UCLA: File System Design](http://web.cs.ucla.edu/classes/fall10/cs111/scribe/11a/)
 
 ## Further Research
 - [OS Dev Wiki: Books](https://wiki.osdev.org/Books)
 - [Kansas State: OS Study Guide](http://faculty.salina.k-state.edu/tim/ossg/index.html)
+- [Dev.to: The coming era of OS kernel modularity](https://dev.to/yonkeltron/the-coming-era-of-os-kernel-modularity-5emc)
+- [Wikipedia: Tanebaum v Torvalds Debate](https://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate)
+- [BHAM: Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
