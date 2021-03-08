@@ -20,3 +20,4 @@ A place to dump OS Dev resources into
 - [Wikipedia: Tanebaum v Torvalds Debate](https://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate)
 - [BHAM: Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 - [YCombinator comment: "OS research is dying out"](https://news.ycombinator.com/item?id=19489800)
+- [Dev.to: Deadlocks explained](https://dev.to/skydler/deadlocks-in-os-explained-18id)
