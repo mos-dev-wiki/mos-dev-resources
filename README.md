@@ -19,7 +19,12 @@ A place to dump OS Dev resources into
 - [Minix3:High reliability Self repairing](http://www.minix3.org/docs/jorrit-herder/osr-jul06.pdf)
 - [IRIF: Correct and Efficient Bounded FIFO Queues](https://www.irif.fr/~guatto/papers/sbac13.pdf)
 - [CLICK WITH CAUTION!! Microsoft: A fork() in the road](https://www.microsoft.com/en-us/research/publication/a-fork-in-the-road/)
-
+## Technical Specifications
+- [AMD64 Programmer's Manual, Volume 2: System Programming](https://www.amd.com/system/files/TechDocs/24593.pdf)
+- [Intel 64 and IA-32 Software Developer's Manual, Volume 3: System Programming Guide](https://software.intel.com/content/dam/develop/external/us/en/documents-tps/325384-sdm-vol-3abcd.pdf)
+- [RISC-V ISA Specification, Volume 2: Priviliged Specification](https://github.com/riscv/riscv-isa-manual/releases/download/Ratified-IMFDQC-and-Priv-v1.11/riscv-privileged-20190608.pdf)
+- [UEFI Specification](https://uefi.org/sites/default/files/resources/UEFI%20Spec%202.8B%20May%202020.pdf)
+- [ACPI Specification](https://uefi.org/sites/default/files/resources/ACPI_Spec_6_3_A_Oct_6_2020.pdf)
 
 ## Further Research
 - [OS Dev Wiki: Books](https://wiki.osdev.org/Books)
